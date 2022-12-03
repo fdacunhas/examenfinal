@@ -1,0 +1,11 @@
+¿Cuál es el archivo que permite ignorar los cambios que se realicen sobre determinados archivos dentro de un repositorio? 
+
+seeds.rb 
+
+.gitignore 
+
+No existe un archivo que permita evitar los  cambios realizados dentro de un repositorio 
+
+git stash
+
+Es el .gitignore dado que permite excluir archivos para que no se registren en el repositorio.
