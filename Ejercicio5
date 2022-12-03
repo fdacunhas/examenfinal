@@ -1,0 +1,3 @@
+¿Cual es el comando que permite iniciar un repositorio de Git en cualquier carpeta? 
+
+Para iniciar un repositorio de Git se debe escribir el comando git init y seleccionar la carpeta en la que se quiere trabajar.
